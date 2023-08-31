@@ -5,6 +5,9 @@ Are you a Microsoft Learn Student Ambassador? Our app lets you generate links wi
 
   Thank you for your interest in the MLSA Sharing Link Generator Power App Solution! This guide will walk you through the simple process of importing both managed and unmanaged solution files into your Microsoft environment.
 
+Reference this Blog for more detailed instructions: https://shaheer365.blogspot.com/2023/08/mlsa-sharing-content-power-app.html
+Or follow te following instuctions
+
 **Before You Begin:**
 1. Ensure you have the necessary permissions to import solutions in your environment.
 2. Make sure you have the Power Platform admin role or equivalent permissions.
@@ -22,20 +25,10 @@ Are you a Microsoft Learn Student Ambassador? Our app lets you generate links wi
     c. Click on "Import" in the command bar.
     d. Select the managed solution file you downloaded.
     e. Follow the prompts to complete the import.
+Follow the prompts to complete the import.
 
-**3. Unmanaged Solution:**
-- Unmanaged solutions are suitable for development and customization purposes, allowing you to modify components as needed.
-
-    a. Sign in to your Power Platform environment.
-    b. Click on the "Soltuions" tab on the left-hand side.
-    c. Click on "Import" in the command bar.
-    d. Select the unmanaged solution file you downloaded.
-    e. Follow the prompts to complete the import.
-
-**4. Verify and Publish:**
+**3. Verify and Publish:**
 - After importing the solution, navigate to the "Apps" tab and open the app. Review its functionality and customization options.
-- Make any necessary adjustments to fit your specific requirements.
-- Once satisfied, publish the app to make it accessible to users.
 
 **Note:**
 - Ensure that you have backups of your environment before importing any solutions.
