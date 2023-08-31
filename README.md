@@ -7,7 +7,7 @@ Are you a Microsoft Learn Student Ambassador? Our app lets you generate links wi
 
 **Importing Instructions for "MLSA Sharing Link Generator" Power App Solution**
 
-  Thank you for your interest in the MLSA Sharing Link Generator Power App Solution! This guide will walk you through the simple process of importing both managed and unmanaged solution files into your Microsoft environment.
+  Thank you for your interest in the MLSA Sharing Link Generator Power App Solution! This guide will walk you through the simple process of importing both managed  solution files into your Power Apps environment.
 
 Reference this Blog for more detailed instructions: https://shaheer365.blogspot.com/2023/08/mlsa-sharing-content-power-app.html
 
